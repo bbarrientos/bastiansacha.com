@@ -1,6 +1,7 @@
 {
   "version": 2,
   "name": "bastiansacha.com",
+  "alias": ["bastiansacha.com"],
   "builds": [
     {
       "src": "build.sh",
